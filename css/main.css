@@ -762,7 +762,6 @@ figure:hover img {
     justify-content: space-around;
     max-width: 740px;
     min-width: 250px;
-    /* responsive solution needed */
 }
 
 .nav-links > .nav-link {
