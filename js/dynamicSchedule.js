@@ -1,6 +1,6 @@
 //initial state data.  update/delete as you please. 
 var dayKey = 0;
-var days = ["March 23","March 24"];
+var days = ["March 8th","March 9th"];
 var eventDay = days[dayKey];
 var scheduleData = Schedules[eventDay].sched;
 

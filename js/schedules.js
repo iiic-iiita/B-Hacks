@@ -1,81 +1,61 @@
 var Schedules = {
-  "March 23" : {
-    day: "March 23",
+  "March 8th" : {
+    day: "March 8th",
     sched: [
       {
-        time: "9 AM",
-        name: "Check In",
-        location: "Juniper Aspiration Dome"
-      },
-      {
-        time: "10 AM",
-        name: "Waitlist Check In",
-        location: "Juniper Aspiration Dome"
-      },
-      {
-        time: "11 AM",
-        name: "Opening Ceremony",
-        location: "Main Stage"
-      },
-      {
-        time: "12 PM",
-        name: "Lunch; Hacking Begins",
-        location: "Everywhere"
-      },
-      {
-        time: "12:30 PM",
-        name: "Team Mixer",
-        location: "Workshop Area"
-      },
-      {
-        time: "7 PM",
-        name: "Dinner",
-        location: "Food Area"
-      },
-      {
         time: "9 PM",
-        name: "Cup Stacking",
-        location: "Main Stage"
+        name: "Check In",
+        location: "Computer Center 3"
       },
       {
-        time: "10 PM",
-        name: "Capture The Flag",
-        location: "Everywhere"
+        time: "11 PM",
+        name: "Hacking Starts",
+        location: "Computer Center 3"
       },
     ]
   },
-  "March 24" : {
-    day: "March 24",
+  "March 9th" : {
+    day: "March 9th",
     sched: [
       {
-        time: "12 AM",
-        name: "Midnight Surprise",
-        location: "Food Area"
+        time: "2 AM",
+        name: "Snacks Break",
+        location: "Computer Center 3"
       },
       {
-        time: "7 AM",
-        name: "Breakfast",
-        location: "Food Area"
+        time: "6 AM",
+        name: "Fun Quiz",
+        location: "Computer Center 3"
       },
       {
         time: "8 AM",
-        name: "Submissions to Devpost;\nJudges Arrive",
-        location: "Everywhere"
-      },
-      {
-        time: "9 AM",
-        name: "Judging",
-        location: "Everywhere"
+        name: "Morning Breakfast",
+        location: "Computer Center 3"
       },
       {
         time: "11 AM",
-        name: "Closing Ceremony",
-        location: "Main Stage"
+        name: "First Evaluation",
+        location: "Computer Center 3"
       },
       {
-        time: "12 PM",
-        name: "End of Hackathon",
-        location: "Everywhere"
+        time: "1 PM",
+        name: "Lunch Break",
+        location: "College Cafeteria"
+      },
+      {
+        time: "4 PM",
+        name: "Submission of Projetcs",
+        location: "Computer Center 3"
+      },
+      {
+        time: "5 PM",
+        name: "Hackathon Ends",
+        location: "Computer Center 3"
+      },
+      {
+        time: "6 PM",
+        name: "Presentaion And Prize Distribution Ceremony",
+        location: "Computer Center 3"
       }
     ]
   },
